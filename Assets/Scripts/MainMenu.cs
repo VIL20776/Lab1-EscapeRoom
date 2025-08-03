@@ -3,11 +3,14 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public void PlaySelect() {
+    
+    public void PlaySelect()
+    {
         SceneManager.LoadScene("SampleScene");
     }
 
-    public void QuitSelect() {
+    public void QuitSelect()
+    {
         Application.Quit();
     }
 }

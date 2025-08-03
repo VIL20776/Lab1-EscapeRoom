@@ -151,3 +151,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _menu: {fileID: 0}
   _resetLevel: 0
+  _respawnSound: {fileID: 8300000, guid: b19754def4e366418bac7774596e91d0, type: 3}
